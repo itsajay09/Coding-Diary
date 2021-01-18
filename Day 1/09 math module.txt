@@ -1,0 +1,15 @@
+#python3 program to illustrate
+#math module
+
+import math
+
+def main():
+    num = -85
+
+    #fabs are used to give accurate value
+
+    num = math.fabs(num)
+    print(num)
+
+if __name__ == "__main__":
+    main()

@@ -1,0 +1,5 @@
+#python3 program to illustrate
+#a simple loop
+
+for name in range(5):
+    print(name)

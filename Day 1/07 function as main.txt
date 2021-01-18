@@ -1,0 +1,18 @@
+#python3 program to illustate
+#function as main
+
+def getInteger():
+    num1 = int(input("Enter Number: "))
+    return num1
+
+def main():
+    print("Started")
+
+#storing value of getInteger in output variable
+    output = getInteger()
+    print(output)
+
+#now tell program of main function
+
+if __name__ == "__main__":
+    main()

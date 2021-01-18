@@ -1,0 +1,11 @@
+#python3 program to illustrate
+#functions
+
+def hello():
+    print("Hello")
+    print("Hello again")
+
+hello()
+
+#calling function
+hello()

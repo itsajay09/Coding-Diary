@@ -1,0 +1,10 @@
+#python3 program to illustrate
+#selection statement
+
+num = 34
+if(num>12):
+    print("Number is good")
+elif(num>35):
+    print("Number is not so goood...")
+else:
+    print("Number is bad")

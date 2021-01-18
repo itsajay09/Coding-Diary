@@ -1,0 +1,6 @@
+#Python Program to Illustrate
+#Input from the user
+
+name = input("Enter Your Name: ")
+
+print("hello",name)

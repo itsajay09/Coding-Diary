@@ -1,0 +1,11 @@
+#Python Program to append in List
+
+#create a list
+nums = []
+
+#appending data in the list
+nums.append(21)
+nums.append(11.5)
+nums.append("Hello World")
+
+print(nums)

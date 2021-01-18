@@ -1,0 +1,11 @@
+#python3 program to get input from the user
+#product of two number
+#to print input in integer
+#we need to convert input into integer
+
+num1 = int(input("Enter Number 1: "))
+num2 = int(input("Enter Number 2: "))
+
+num3 = num1 * num2
+
+print("Product is ",num3)

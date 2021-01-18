@@ -1,0 +1,19 @@
+Python 3.8.3 (tags/v3.8.3:6f8c832, May 13 2020, 22:20:19) [MSC v.1925 32 bit (Intel)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> mynumber = 3
+>>> print(mynumber)
+3
+>>> 
+>>> mynumber = 4.5
+>>> print(mynumber)
+4.5
+>>> print(mynumber)
+4.5
+>>> mynumber2 = 3
+>>> print(mynumber2)
+3
+>>> myNumber = "Hello World"
+>>> print(myNumber)
+Hello World
+>>> #Python Program To Declare Variables
+>>> 
